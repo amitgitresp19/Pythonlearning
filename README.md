@@ -161,3 +161,36 @@ Sample output: Counter({'a': 400, 'b': 400, 'd': 400, 'c': 300})
 20. Write a Python program to print all distinct values in a dictionary.
 Sample Data : [{"V":"S001"}, {"V": "S002"}, {"VI": "S001"}, {"VI": "S005"}, {"VII":"S005"}, {"V":"S009"},{"VIII":"S007"}]
 Expected Output : Unique Values: {'S005', 'S002', 'S007', 'S001', 'S009'}
+
+
+More programs Basic :
+
+
+1. Explain the purpose of docstrings in Python functions and how to write them.
+2. Describe some best practices for naming functions and variables in Python, including naming 
+conventions and guidelines.
+
+
+1. What is a function in Python, and why is it used?
+2. How do you define a function in Python? Provide an example.
+3. Explain the difference between a function definition and a function call.
+4. Write a Python program that defines a function to calculate the sum of two numbers and then 
+calls the function.
+5. What is a function signature, and what information does it typically include?
+6. Create a Python function that takes two arguments and returns their product.
+
+
+Return Values and Scoping:
+1. Describe the role of the `return` statement in Python functions and provide examples.
+2. Explain the concept of variable scope in Python, including local and global variables.
+3. Write a Python program that demonstrates the use of global variables within functions.
+4. Create a Python function that calculates the factorial of a number and returns it.
+5. How can you access variables defined outside a function from within the function?
+
+
+
+1. Explain the concepts of formal parameters and actual arguments in Python functions.
+2. Write a Python program that defines a function with default argument values.
+3. How do you use keyword arguments in Python function calls? Provide an example.
+4. Create a Python function that accepts a variable number of arguments and calculates their sum.
+5. What is the purpose of the `*args` and `**kwargs` syntax in function parameter lists?
